@@ -15,10 +15,10 @@ Part 1.
 Part 2.  
 1. create tfidf feature vectors from the text.
   
-Part 3.
+Part 3.  
 1. Implementing the logistic regression model, loss function as well as a parameter optimzation algorithm, e.g. stochastic gradient descent.
   
-Part 4.
+Part 4.  
 1. Evaluate the model on the test data using accuracy score as evaluation metric.
   
   
@@ -31,13 +31,13 @@ Part 1.
 The dataset provided is not very clean. We do the following pre-processing steps:
 1. Missing features: Replace every such feature with other values, e.g., minimum, maximum, or average of that feature.
 2. Normalization: Make the range between values similar. Larger differences can make model convergence difficult.
-3. Categorical features: Replace them with numerical values. e.g. male/female can be replaced with 0/1 and so on.
+3. Categorical features: Replace them with numerical values. e.g. male/female can be replaced with 0/1 and so on.  
   
 Part 2.  
-1. Implement the K-Means clustering algorithm to cluster the data into K clusters.
+1. Implement the K-Means clustering algorithm to cluster the data into K clusters.  
   
 Part 3.  
-1. You should optimize the value of K using elbow method.
+1. You should optimize the value of K using elbow method.  
   
 Part 4.  
 1.Create visualizations of the distortions computed by the elbow method.  
