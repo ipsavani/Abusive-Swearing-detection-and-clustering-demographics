@@ -4,8 +4,8 @@
 #### 1. Abusive Swearing Detection  
 Details:  
 The dataset is a set of annotated tweets based on whether the tweet contains abusive swearing or not.  
-input files; swad train.csv & swad test.csv.  
-custom files for pre-processing; punctuations.txt & stopwords.txt.  
+input files:                     swad train.csv & swad test.csv.  
+custom files for pre-processing: punctuations.txt & stopwords.txt.  
   
 Part 1.
 1. Lowercasing: Convert all the tweets into lowercase
