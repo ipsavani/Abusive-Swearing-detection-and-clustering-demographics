@@ -40,7 +40,7 @@ Part 3.
 1. You should optimize the value of K using elbow method.  
   
 Part 4.  
-1.Create visualizations of the distortions computed by the elbow method.  
+1. Create visualizations of the distortions computed by the elbow method.  
   
 References  
 [1] Ron Kohavi. Scaling up the accuracy of naive-bayes classifiers: A decision- tree hybrid. In Proceedings of the Second International Conference on Knowledge Discovery and Data Mining, KDD’96, page 202–207. AAAI Press, 1996.  
