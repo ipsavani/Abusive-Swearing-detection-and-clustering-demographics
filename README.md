@@ -23,7 +23,7 @@ Part 4.
 Details:
 This partial dataset [1] contains census information including, age, workclass, education, marital status etc. The original task is to classify the people into salary brackets. We are provided with a single file (income.csv). The task is to group the data into optimum number of groups.
 
-Part 1.
+Part 1.\n
 The dataset provided is not very clean. We do the following pre-processing steps:
 1. Missing features: Replace every such feature with other values, e.g., minimum, maximum, or average of that feature.
 2. Normalization: Make the range between values similar. Larger differences can make model convergence difficult.
