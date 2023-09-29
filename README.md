@@ -1,11 +1,11 @@
 # Abusive-Swearing-detection-and-clustering-demographics
 ### Implemented a logistic regression model and a K-Means clustering model from scratch and applied them on two real-world datasets.
 
-1. Abusive Swearing Detection
-Details: 
-The dataset is a set of annotated tweets based on whether the tweet contains abusive swearing or not.
-input files; swad train.csv & swad test.csv. 
-custom files for pre-processing; punctuations.txt & stopwords.txt.
+#### Abusive Swearing Detection
+#### Details: 
+##### The dataset is a set of annotated tweets based on whether the tweet contains abusive swearing or not.
+##### input files; swad train.csv & swad test.csv. 
+##### custom files for pre-processing; punctuations.txt & stopwords.txt.
 
 Part 1.
 1. Lowercasing: Convert all the tweets into lowercase
