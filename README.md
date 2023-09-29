@@ -18,11 +18,10 @@ Part 3.
 Part 4.
 1. Evaluate the model on the test data using accuracy score as evaluation metric.
 
+
 2. Clustering demographics
 Details:
-This partial dataset [1] contains census information including, age, workclass, education, marital status etc. 
-The original task is to classify the people into salary brackets. We are provided with a single file (income.csv). 
-The task is to group the data into optimum number of groups.
+This partial dataset [1] contains census information including, age, workclass, education, marital status etc. The original task is to classify the people into salary brackets. We are provided with a single file (income.csv). The task is to group the data into optimum number of groups.
 
 Part 1.
 The dataset provided is not very clean. We do the following pre-processing steps:
